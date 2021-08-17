@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="ac">AC</string>
+    <string name="sterer">⌫</string>
+    <string name="xxxx">╳</string>
+    <string name="seven">7</string>
+    <string name="eght">8</string>
+    <string name="nine">9</string>
+    <string name="razdelit">÷</string>
+    <string name="four">4</string>
+    <string name="fife">5</string>
+    <string name="six">6</string>
+    <string name="minus">-</string>
+    <string name="pluis">+</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="nul_l">0</string>
+    <string name="point">.</string>
+    <string name="same">=</string>
+    <string name="settings">preferenses</string>
+    <string name="ddddd">Settings</string>
+    <string name="_0">0</string>
+    <string name="Settings_val">settings</string>
+</resources>
